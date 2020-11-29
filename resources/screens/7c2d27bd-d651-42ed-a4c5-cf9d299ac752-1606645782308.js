@@ -272,6 +272,15 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_1" ],
+                    "value": "Juan"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -299,6 +308,15 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_2" ],
+                    "value": "Martínez"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -323,6 +341,15 @@ jQuery("#simulation")
                       "type": "fade",
                       "duration": 500
                     }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_3" ],
+                    "value": "12345678"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -381,6 +408,15 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_5" ],
+                    "value": "Marta"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -408,6 +444,15 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_6" ],
+                    "value": "García"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -432,6 +477,15 @@ jQuery("#simulation")
                       "type": "fade",
                       "duration": 500
                     }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_7" ],
+                    "value": "12345679"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -544,7 +598,7 @@ jQuery("#simulation")
                 {
                   "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Group_5" ]
+                    "target": [ "#s-Group_11" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1047,6 +1101,182 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_17")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Group_7" ],
+                    "effect": {
+                      "type": "slide",
+                      "duration": 500,
+                      "direction": "left"
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_18")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_7" ],
+                    "effect": {
+                      "type": "slide",
+                      "duration": 500,
+                      "direction": "left"
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Paragraph_10")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Group_8" ],
+                    "effect": {
+                      "type": "fade",
+                      "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_12")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_8" ],
+                    "effect": {
+                      "type": "fade",
+                      "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_14")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_11" ],
+                    "effect": {
+                      "type": "fade",
+                      "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Group_5" ],
+                    "effect": {
+                      "type": "fade",
+                      "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_15")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_11" ],
+                    "effect": {
+                      "type": "fade",
+                      "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     }
   })
   .on("mouseup", ".s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 .mouseup", function(event, data) {
@@ -1186,6 +1416,105 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_12")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_12": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_12 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#282828"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_14")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_14": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_14 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#282828"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_15")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_15": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_15 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#282828"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     }
   })
   .on("mousedown", ".s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 .mousedown", function(event, data) {
@@ -1308,6 +1637,105 @@ jQuery("#simulation")
                     }
                   },{
                     "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_10 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#999999"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_12")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_12": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_12 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#999999"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_14")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_14": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_14 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#999999"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_15")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_15": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_15 > .backgroundLayer > .colorLayer": {
                       "attributes": {
                         "background-color": "#999999"
                       }
@@ -1468,6 +1896,108 @@ jQuery("#simulation")
         }
       ];
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_12") && jFirer.has(event.relatedTarget).length === 0) {
+      event.backupState = true;
+      event.target = jFirer;
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_12": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_12 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#5E5E5E"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_14") && jFirer.has(event.relatedTarget).length === 0) {
+      event.backupState = true;
+      event.target = jFirer;
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_14": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_14 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#5E5E5E"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_15") && jFirer.has(event.relatedTarget).length === 0) {
+      event.backupState = true;
+      event.target = jFirer;
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_15": {
+                      "attributes": {
+                        "font-size": "0pt"
+                      }
+                    }
+                  },{
+                    "#s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 #s-Rectangle_15 > .backgroundLayer > .colorLayer": {
+                      "attributes": {
+                        "background-color": "#5E5E5E"
+                      }
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
     }
   })
   .on("mouseleave dragleave", ".s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752 .mouseleave", function(event, data) {
@@ -1482,6 +2012,12 @@ jQuery("#simulation")
     } else if(jFirer.is("#s-Rectangle_8")) {
       jEvent.undoCases(jFirer);
     } else if(jFirer.is("#s-Rectangle_10")) {
+      jEvent.undoCases(jFirer);
+    } else if(jFirer.is("#s-Rectangle_12")) {
+      jEvent.undoCases(jFirer);
+    } else if(jFirer.is("#s-Rectangle_14")) {
+      jEvent.undoCases(jFirer);
+    } else if(jFirer.is("#s-Rectangle_15")) {
       jEvent.undoCases(jFirer);
     }
   });

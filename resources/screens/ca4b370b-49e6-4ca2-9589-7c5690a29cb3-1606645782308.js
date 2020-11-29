@@ -121,7 +121,7 @@ jQuery("#simulation")
                 {
                   "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Group_3" ]
+                    "target": [ "#s-Group_4" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -203,6 +203,15 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_3" ],
+                    "value": "2"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -230,6 +239,15 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_2" ],
+                    "value": "Madrid"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -254,6 +272,15 @@ jQuery("#simulation")
                       "type": "fade",
                       "duration": 500
                     }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimSetValue",
+                  "parameter": {
+                    "target": [ "#s-Input_1" ],
+                    "value": "Barcelona"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -703,7 +730,35 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Rectangle_3")) {
+    } else if(jFirer.is("#s-Image_8")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Group_3" ],
+                    "effect": {
+                      "type": "slide",
+                      "duration": 500,
+                      "direction": "left"
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_9")) {
       cases = [
         {
           "blocks": [
@@ -713,6 +768,61 @@ jQuery("#simulation")
                   "action": "jimHide",
                   "parameter": {
                     "target": [ "#s-Group_3" ],
+                    "effect": {
+                      "type": "slide",
+                      "duration": 500,
+                      "direction": "left"
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_10")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Image_6" ],
+                    "effect": {
+                      "type": "fade",
+                      "duration": 500
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Rectangle_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_4" ],
                     "effect": {
                       "type": "fade",
                       "duration": 500

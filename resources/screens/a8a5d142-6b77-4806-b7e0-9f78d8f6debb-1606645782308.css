@@ -1,6 +1,15 @@
 #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb > #backgroundBox {
   position: absolute;
 }
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb > #backgroundBox > .imageLayer {
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: scroll;
+  background-size: cover;
+  opacity: 0.07;
+  background-image: url('../../images/a8621993-e0a4-4d9b-8d23-a97f81930b4d.jpg');
+}
 #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb > #alignmentBox {
   position: relative;
 }
@@ -3332,6 +3341,128 @@ _:-ms-fullscreen, :root #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_9 {
   border-left-width: 2px;
   border-left-style: solid;
   border-left-color: #818384;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_10 {
+  position: absolute;
+  width: 19.0px;
+  height: 20.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_10 {
+  box-shadow: none;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 input::-webkit-input-placeholder {
+  color: #B4B4B4;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 input::-moz-placeholder {
+  color: #B4B4B4;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 input:-moz-placeholder {
+  color: #B4B4B4;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 input:-ms-input-placeholder {
+  color: #B4B4B4;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 {
+  position: absolute;
+  width: 170.0px;
+  height: 31.0000000000001px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  cursor: text;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 {
+  box-shadow: none;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 .valign {
+  vertical-align: middle;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 input {
+  color: #666666;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'OpenSans-Light',Arial;
+  font-size: 11.0pt;
+  text-shadow: none;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 > .backgroundLayer {
+  border-radius: 2px 2px 2px 2px;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 > .backgroundLayer > .colorLayer {
+  background-color: #FFFFFF;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 > .borderLayer {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #DDDDDD;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #DDDDDD;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #DDDDDD;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #DDDDDD;
+  border-radius: 2px 2px 2px 2px;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 > .backgroundLayer {
+  border-radius: 2px 2px 2px 2px;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Input_1 .paddingLayer:first-child {
+  padding-top: 1px;
+  padding-right: 41px;
+  padding-bottom: 1px;
+  padding-left: 11px;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_11 {
+  position: absolute;
+  width: 19.0px;
+  height: 20.000000000000014px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_11 {
+  box-shadow: none;
+}
+#s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_12 {
+  position: absolute;
+  width: 20.0px;
+  height: 19.99999999999995px;
+  opacity: 0.56;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-a8a5d142-6b77-4806-b7e0-9f78d8f6debb #s-Image_12 {
+  box-shadow: none;
 }
 .devMobile #jim-container .ui-page {
   overflow-x: hidden;

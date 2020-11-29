@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606423107987.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606423107987-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606645782308.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606645782308-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -12,12 +12,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-ca4b370b-49e6-4ca2-9589-7c5690a29cb3" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Inicio Cal" width="1280" height="800">\
+    <div id="s-ca4b370b-49e6-4ca2-9589-7c5690a29cb3" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Inicio Cal" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/ca4b370b-49e6-4ca2-9589-7c5690a29cb3-1606423107987.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ca4b370b-49e6-4ca2-9589-7c5690a29cb3-1606423107987-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ca4b370b-49e6-4ca2-9589-7c5690a29cb3-1606423107987-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/ca4b370b-49e6-4ca2-9589-7c5690a29cb3-1606645782308.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ca4b370b-49e6-4ca2-9589-7c5690a29cb3-1606645782308-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ca4b370b-49e6-4ca2-9589-7c5690a29cb3-1606645782308-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1024.0px" datasizeheight="470.0px" >\
         <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Group_2" datasizewidth="490.0px" datasizeheight="515.0px" >\
@@ -304,7 +304,70 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
 \
 \
-        <div id="s-Group_3" class="group firer ie-background commentable hidden non-processed" customid="AVISO" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Image_8" class="pie image firer click ie-background commentable non-processed" customid="icono buscar"   datasizewidth="19.0px" datasizeheight="20.0px" dataX="373.0" dataY="107.5"   alt="image" systemName="./images/e9d77705-6b5b-49d7-8ee4-ff5413996fd5.svg" overlay="#CBCBCB">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+            	<?xml version="1.0" encoding="UTF-8"?>\
+            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20px" version="1.1" viewBox="0 0 19 20" width="19px">\
+            	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+            	    <title>Icon</title>\
+            	    <desc>Created with Sketch.</desc>\
+            	    <defs />\
+            	    <g fill="none" fill-rule="evenodd" id="s-Image_8-Page-1" stroke="none" stroke-width="1">\
+            	        <g fill="#B1B1B1" id="Header-#6" transform="translate(-1068.000000, -25.000000)">\
+            	            <g id="s-Image_8-Search-" transform="translate(1068.000000, 17.000000)">\
+            	                <path d="M12.939,16.271 C12.939,19.121 10.621,21.439 7.771,21.439 C4.921,21.439 2.584,19.121 2.584,16.271 C2.584,13.402 4.902,11.084 7.771,11.084 C10.621,11.084 12.939,13.421 12.939,16.271 L12.939,16.271 Z M14.174,20.66 C15.067,19.387 15.542,17.829 15.542,16.271 C15.542,11.977 12.065,8.5 7.771,8.5 C3.477,8.5 0,11.977 0,16.271 C0,20.565 3.477,24.042 7.771,24.042 C9.329,24.042 10.887,23.548 12.179,22.674 L17.005,27.5 L19,25.505 L14.174,20.66 Z" id="s-Image_8-Icon" style="fill:#CBCBCB !important;" />\
+            	            </g>\
+            	        </g>\
+            	    </g>\
+            	</svg>\
+\
+            </div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_3" class="group firer ie-background commentable hidden non-processed" customid="buscadoor" datasizewidth="347.0px" datasizeheight="46.0px" >\
+          <div id="s-Input_5" class="pie text firer commentable non-processed" customid="Input_search"  datasizewidth="170.0px" datasizeheight="31.0px" dataX="373.0" dataY="101.0" ><div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+\
+          <div id="s-Image_9" class="pie image firer click ie-background commentable non-processed" customid="Image_37"   datasizewidth="19.0px" datasizeheight="20.0px" dataX="518.0" dataY="107.0"   alt="image" systemName="./images/4d967096-284d-421c-a7c3-241ad25b3499.svg" overlay="#CBCBCB">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20px" version="1.1" viewBox="0 0 19 20" width="19px">\
+              	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+              	    <title>Icon</title>\
+              	    <desc>Created with Sketch.</desc>\
+              	    <defs />\
+              	    <g fill="none" fill-rule="evenodd" id="s-Image_9-Page-1" stroke="none" stroke-width="1">\
+              	        <g fill="#B1B1B1" id="Header-#6" transform="translate(-1068.000000, -25.000000)">\
+              	            <g id="s-Image_9-Search-" transform="translate(1068.000000, 17.000000)">\
+              	                <path d="M12.939,16.271 C12.939,19.121 10.621,21.439 7.771,21.439 C4.921,21.439 2.584,19.121 2.584,16.271 C2.584,13.402 4.902,11.084 7.771,11.084 C10.621,11.084 12.939,13.421 12.939,16.271 L12.939,16.271 Z M14.174,20.66 C15.067,19.387 15.542,17.829 15.542,16.271 C15.542,11.977 12.065,8.5 7.771,8.5 C3.477,8.5 0,11.977 0,16.271 C0,20.565 3.477,24.042 7.771,24.042 C9.329,24.042 10.887,23.548 12.179,22.674 L17.005,27.5 L19,25.505 L14.174,20.66 Z" id="s-Image_9-Icon" style="fill:#CBCBCB !important;" />\
+              	            </g>\
+              	        </g>\
+              	    </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-Image_10" class="pie image lockV firer click ie-background commentable non-processed" customid="Micro"   datasizewidth="20.0px" datasizeheight="20.0px" dataX="491.0" dataY="107.0" aspectRatio="1.0"   alt="image">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+            		<img src="./images/5f8cbefd-b812-4ece-a724-32f5230bfc34.png" />\
+            	</div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+\
+        <div id="s-Group_4" class="group firer ie-background commentable hidden non-processed" customid="AVISO" datasizewidth="0.0px" datasizeheight="0.0px" >\
           <div id="s-Rectangle_2" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_3"   datasizewidth="242.0px" datasizeheight="115.0px" datasizewidthpx="241.99999999999977" datasizeheightpx="115.00000000000031" dataX="522.0" dataY="315.0" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\

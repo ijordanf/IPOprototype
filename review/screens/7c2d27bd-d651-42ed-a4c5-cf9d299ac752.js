@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606423107987.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606423107987-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606645782308.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1606645782308-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -12,29 +12,14 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Compra - Icon" width="1280" height="800">\
+    <div id="s-7c2d27bd-d651-42ed-a4c5-cf9d299ac752" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Compra - Icon" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/7c2d27bd-d651-42ed-a4c5-cf9d299ac752-1606423107987.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/7c2d27bd-d651-42ed-a4c5-cf9d299ac752-1606423107987-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/7c2d27bd-d651-42ed-a4c5-cf9d299ac752-1606423107987-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/7c2d27bd-d651-42ed-a4c5-cf9d299ac752-1606645782308.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/7c2d27bd-d651-42ed-a4c5-cf9d299ac752-1606645782308-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/7c2d27bd-d651-42ed-a4c5-cf9d299ac752-1606645782308-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1024.0px" datasizeheight="470.0px" >\
-        <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="1024.0px" datasizeheight="723.0px" datasizewidthpx="1024.0" datasizeheightpx="723.0" dataX="128.0" dataY="11.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_1_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
         <div id="s-Rectangle_2" class="pie rectangle manualfit firer mouseenter mouseleave mousedown mouseup click commentable non-processed" customid="comprar"   datasizewidth="120.0px" datasizeheight="39.0px" datasizewidthpx="120.0" datasizeheightpx="39.0" dataX="585.3" dataY="731.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
@@ -685,7 +670,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Group_5" class="group firer ie-background commentable hidden non-processed" customid="AVISO" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Group_5" class="group firer ie-background commentable hidden non-processed" customid="AVISO gracias" datasizewidth="0.0px" datasizeheight="0.0px" >\
           <div id="s-Rectangle_7" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_3"   datasizewidth="242.0px" datasizeheight="115.0px" datasizewidthpx="241.99999999999977" datasizeheightpx="115.00000000000031" dataX="524.0" dataY="431.0" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
@@ -775,6 +760,292 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                 <div class="content">\
                   <div class="valign">\
                     <span id="rtr-s-Paragraph_9_0">&iexcl;DATOS INCOMPLETOS!</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Image_17" class="pie image firer click ie-background commentable non-processed" customid="icono buscar"   datasizewidth="19.0px" datasizeheight="20.0px" dataX="371.5" dataY="107.5"   alt="image" systemName="./images/93a27c0c-cc68-4a2a-96f8-f92746a33a42.svg" overlay="#CBCBCB">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+            	<?xml version="1.0" encoding="UTF-8"?>\
+            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20px" version="1.1" viewBox="0 0 19 20" width="19px">\
+            	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+            	    <title>Icon</title>\
+            	    <desc>Created with Sketch.</desc>\
+            	    <defs />\
+            	    <g fill="none" fill-rule="evenodd" id="s-Image_17-Page-1" stroke="none" stroke-width="1">\
+            	        <g fill="#B1B1B1" id="Header-#6" transform="translate(-1068.000000, -25.000000)">\
+            	            <g id="s-Image_17-Search-" transform="translate(1068.000000, 17.000000)">\
+            	                <path d="M12.939,16.271 C12.939,19.121 10.621,21.439 7.771,21.439 C4.921,21.439 2.584,19.121 2.584,16.271 C2.584,13.402 4.902,11.084 7.771,11.084 C10.621,11.084 12.939,13.421 12.939,16.271 L12.939,16.271 Z M14.174,20.66 C15.067,19.387 15.542,17.829 15.542,16.271 C15.542,11.977 12.065,8.5 7.771,8.5 C3.477,8.5 0,11.977 0,16.271 C0,20.565 3.477,24.042 7.771,24.042 C9.329,24.042 10.887,23.548 12.179,22.674 L17.005,27.5 L19,25.505 L14.174,20.66 Z" id="s-Image_17-Icon" style="fill:#CBCBCB !important;" />\
+            	            </g>\
+            	        </g>\
+            	    </g>\
+            	</svg>\
+\
+            </div>\
+          </div>\
+        </div>\
+\
+\
+        <div id="s-Group_7" class="group firer ie-background commentable hidden non-processed" customid="buscadoor" datasizewidth="347.0px" datasizeheight="46.0px" >\
+          <div id="s-Input_9" class="pie text firer commentable non-processed" customid="Input_search"  datasizewidth="170.0px" datasizeheight="31.0px" dataX="372.0" dataY="102.0" ><div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+\
+          <div id="s-Image_18" class="pie image firer click ie-background commentable non-processed" customid="Image_37"   datasizewidth="19.0px" datasizeheight="20.0px" dataX="517.0" dataY="108.0"   alt="image" systemName="./images/37186cbc-8e8f-439e-ac2d-4e38f5b29dd5.svg" overlay="#CBCBCB">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20px" version="1.1" viewBox="0 0 19 20" width="19px">\
+              	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+              	    <title>Icon</title>\
+              	    <desc>Created with Sketch.</desc>\
+              	    <defs />\
+              	    <g fill="none" fill-rule="evenodd" id="s-Image_18-Page-1" stroke="none" stroke-width="1">\
+              	        <g fill="#B1B1B1" id="Header-#6" transform="translate(-1068.000000, -25.000000)">\
+              	            <g id="s-Image_18-Search-" transform="translate(1068.000000, 17.000000)">\
+              	                <path d="M12.939,16.271 C12.939,19.121 10.621,21.439 7.771,21.439 C4.921,21.439 2.584,19.121 2.584,16.271 C2.584,13.402 4.902,11.084 7.771,11.084 C10.621,11.084 12.939,13.421 12.939,16.271 L12.939,16.271 Z M14.174,20.66 C15.067,19.387 15.542,17.829 15.542,16.271 C15.542,11.977 12.065,8.5 7.771,8.5 C3.477,8.5 0,11.977 0,16.271 C0,20.565 3.477,24.042 7.771,24.042 C9.329,24.042 10.887,23.548 12.179,22.674 L17.005,27.5 L19,25.505 L14.174,20.66 Z" id="s-Image_18-Icon" style="fill:#CBCBCB !important;" />\
+              	            </g>\
+              	        </g>\
+              	    </g>\
+              	</svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-Image_19" class="pie image lockV firer ie-background commentable non-processed" customid="Micro"   datasizewidth="20.0px" datasizeheight="20.0px" dataX="490.0" dataY="108.0" aspectRatio="1.0"   alt="image">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+            		<img src="./images/5f8cbefd-b812-4ece-a724-32f5230bfc34.png" />\
+            	</div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+        <div id="s-Paragraph_10" class="pie richtext manualfit firer click ie-background commentable non-processed" customid="Medidas"   datasizewidth="276.0px" datasizeheight="20.0px" dataX="505.0" dataY="691.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_10_0">Consultar </span><span id="rtr-s-Paragraph_10_1">medidas de bioseguridad</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Group_8" class="group firer ie-background commentable hidden non-processed" customid="AVISO" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Rectangle_11" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_3"   datasizewidth="408.0px" datasizeheight="472.0px" datasizewidthpx="408.0000000000002" datasizeheightpx="472.00000000000017" dataX="420.0" dataY="278.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Rectangle_11_0"></span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Rectangle_12" class="pie rectangle manualfit firer mouseenter mouseleave mousedown mouseup click commentable non-processed" customid="volver"   datasizewidth="118.1px" datasizeheight="25.8px" datasizewidthpx="118.10526315789468" datasizeheightpx="25.849949880484473" dataX="564.9" dataY="698.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Rectangle_12_0">CERRAR</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="shapewrapper-s-Line_3" customid="Line 3" class="shapewrapper shapewrapper-s-Line_3 non-processed"   datasizewidth="357.9px" datasizeheight="1.0px" datasizewidthpx="357.89473684210543" datasizeheightpx="1.0" dataX="445.1" dataY="377.0" >\
+              <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_3" class="svgContainer" style="width:100%;height:100%;">\
+                  <g>\
+                      <g>\
+                          <path id="s-Line_3" class="pie line shape non-processed-shape firer ie-background commentable non-processed" customid="Line 3" d="M 0.0 0.5 L 357.89473684210543 0.5"  >\
+                          </path>\
+                      </g>\
+                  </g>\
+                  <defs>\
+                  </defs>\
+              </svg>\
+          </div>\
+          <div id="s-Paragraph_11" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="261.3px" datasizeheight="32.0px" dataX="493.3" dataY="319.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_11_0">Medidas de seguridad</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+\
+          <div id="s-Group_9" class="group firer ie-background commentable non-processed" customid="Group 3" datasizewidth="0.0px" datasizeheight="0.0px" >\
+            <div id="s-Paragraph_12" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_7"   datasizewidth="357.9px" datasizeheight="192.0px" dataX="445.1" dataY="408.0" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <div class="borderLayer">\
+                <div class="paddingLayer">\
+                  <div class="content">\
+                    <div class="valign">\
+                      <span id="rtr-s-Paragraph_12_0">Medida 1<br /></span><span id="rtr-s-Paragraph_12_1">Sobre el uso de mascarilla</span>\
+                    </div>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Paragraph_13" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph 3"   datasizewidth="357.9px" datasizeheight="101.0px" dataX="445.1" dataY="453.5" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <div class="borderLayer">\
+                <div class="paddingLayer">\
+                  <div class="content">\
+                    <div class="valign">\
+                      <span id="rtr-s-Paragraph_13_0">Comunicación de incidentes/accidentes, factores de riesgo o suge&shy; rencias de mejoras: todo incidente que afecte a la seguridad, los acci&shy; dentes, factores de riesgo identificados o sugerencias de mejora, han de ser comunicados por el trabajador al superior jerárquico, quien asumirá a su nivel competencial las actuaciones preventivas o de mejora necesarias, consultando y/o poniendo en conocimiento las mismas al servicio de prevención.</span>\
+                    </div>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-Group_10" class="group firer ie-background commentable non-processed" customid="Group 3" datasizewidth="0.0px" datasizeheight="0.0px" >\
+            <div id="s-Paragraph_14" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_7"   datasizewidth="357.9px" datasizeheight="101.0px" dataX="445.1" dataY="569.0" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <div class="borderLayer">\
+                <div class="paddingLayer">\
+                  <div class="content">\
+                    <div class="valign">\
+                      <span id="rtr-s-Paragraph_14_0">Medida 2<br /></span><span id="rtr-s-Paragraph_14_1">Sobre el uso de gel</span>\
+                    </div>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Paragraph_15" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph 4"   datasizewidth="334.8px" datasizeheight="43.0px" dataX="445.1" dataY="622.0" >\
+              <div class="backgroundLayer">\
+                <div class="colorLayer"></div>\
+                <div class="imageLayer"></div>\
+              </div>\
+              <div class="borderLayer">\
+                <div class="paddingLayer">\
+                  <div class="content">\
+                    <div class="valign">\
+                      <span id="rtr-s-Paragraph_15_0">Seguimiento de la ejecución de las acciones preventivas o correc&shy; toras contempladas en la planificación preventiva por el superior jerárquico o servicio de prevención.</span>\
+                    </div>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+\
+        <div id="s-Group_11" class="group firer ie-background commentable hidden non-processed" customid="esta seguro" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Rectangle_13" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_3"   datasizewidth="341.0px" datasizeheight="448.0px" datasizewidthpx="341.0000000000001" datasizeheightpx="448.00000000000045" dataX="472.8" dataY="261.5" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Rectangle_13_0"></span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Paragraph_16" class="pie richtext autofit firer ie-background commentable non-processed" customid="Resumen"   datasizewidth="80.3px" datasizeheight="23.0px" dataX="596.2" dataY="296.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_16_0">Resumen</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Paragraph_17" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph 3"   datasizewidth="240.3px" datasizeheight="296.0px" dataX="516.2" dataY="331.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_17_0">Confirma que va a realizar una compra de:<br /><br /> &nbsp; &nbsp; &nbsp;</span><span id="rtr-s-Paragraph_17_1">Origen:</span><span id="rtr-s-Paragraph_17_2"> BARCELONA<br /><br /> &nbsp; &nbsp; &nbsp;</span><span id="rtr-s-Paragraph_17_3">Destino:</span><span id="rtr-s-Paragraph_17_4"> MADRID<br /><br /> &nbsp; &nbsp; &nbsp;</span><span id="rtr-s-Paragraph_17_5">Pasajeros:</span><span id="rtr-s-Paragraph_17_6"> 2<br /><br /> &nbsp; &nbsp; &nbsp;</span><span id="rtr-s-Paragraph_17_7">Fecha:</span><span id="rtr-s-Paragraph_17_8"> XX/XX/2020<br /><br /> &nbsp; &nbsp; &nbsp;</span><span id="rtr-s-Paragraph_17_9">Pasajero 1:<br /></span><span id="rtr-s-Paragraph_17_10"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nombre: Juan <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Apellido: Mart&iacute;nez<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DNI: 12345678<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fecha Nacimiento: XX/XX/XXXX<br /><br /> &nbsp; &nbsp; &nbsp;</span><span id="rtr-s-Paragraph_17_11">Pasajero 2:<br /></span><span id="rtr-s-Paragraph_17_12"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nombre: Marta <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Apellido: Garc&iacute;a<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DNI: 12345679<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fecha Nacimiento: XX/XX/XXXX<br /><br /></span><span id="rtr-s-Paragraph_17_13"> &nbsp; &nbsp; &nbsp;<br /></span><span id="rtr-s-Paragraph_17_14">PRECIO: XX &euro;</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Rectangle_14" class="pie rectangle manualfit firer mouseenter mouseleave mousedown mouseup click commentable non-processed" customid="volver"   datasizewidth="99.0px" datasizeheight="28.1px" datasizewidthpx="99.0" datasizeheightpx="28.091603053435108" dataX="685.0" dataY="656.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Rectangle_14_0">CONFIRMAR</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Rectangle_15" class="pie rectangle manualfit firer mouseenter mouseleave mousedown mouseup click commentable non-processed" customid="CANCELAR"   datasizewidth="99.0px" datasizeheight="28.1px" datasizewidthpx="99.0" datasizeheightpx="28.091603053435108" dataX="507.0" dataY="656.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Rectangle_15_0">CANCELAR</span>\
                   </div>\
                 </div>\
               </div>\
